@@ -16,3 +16,17 @@ body{
     background-repeat: no-repeat;
 
 }
+
+.img1{
+    height: 300px;
+    width: 300px;
+    background-image: url("partes-circuitos-electricos.jpg");
+background-repeat: no-repeat;
+float: right;
+} 
+.titulo{
+font-size: 50px;
+color: aqua;
+text-align: center;
+
+}
