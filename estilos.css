@@ -1,18 +1,18 @@
 /* Temas del segundo período*/
 
-.texto{
-   
-    font-size: 50px;
+.texto {
+    font-size: 35px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+    font-family: math;
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("fondo.jpg.jpg");
     background-repeat: no-repeat;
 
 }
@@ -24,9 +24,9 @@ body{
 background-repeat: no-repeat;
 float: right;
 } 
-.titulo{
-font-size: 50px;
-color: aqua;
-text-align: center;
-
+.titulo {
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+    font-family: math;
 }
