@@ -36,4 +36,12 @@ body{
     color: #fff;
     margin-top: 65px;
     font-family: math;
+} 
+
+.centrado {
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+    font-family: math;
+
 }
