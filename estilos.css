@@ -31,7 +31,6 @@ body{
 
 .titulo55 {
     font-size: 35px;
-    margin-left: 300px;
     text-align: center;
     color: #fff;
     margin-top: 65px;
@@ -62,11 +61,9 @@ body{
 .imgt{
     width: 900px;
     height: 1000px;
-    background-image: url(logo\ Excel.webp);
     background-repeat: no-repeat;
     
 }
-
 
 
 
