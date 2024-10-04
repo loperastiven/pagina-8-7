@@ -1,11 +1,11 @@
 /* Temas del segundo período*/
 
-.texto {
-    font-size: 35px;
+.texto{
+   
+    font-size: 50px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(255, 255, 255);
-    font-family: math;
 }
 .principal{
    display: flex;
@@ -13,7 +13,7 @@
 }
 body{
     background-image: url("fondo.jpg.jpg");
-
+    background-repeat: no-repeat;
 
 }
 
@@ -21,46 +21,12 @@ body{
     height: 300px;
     width: 300px;
     background-image: url("partes-circuitos-electricos.jpg");
+background-repeat: no-repeat;
+float: right;
 } 
-.titulo {
-    font-size: 50px;
-    color: aqua;
-    text-align: center;
-    font-family: math;
-}
-
-.titulo55 {
-    font-size: 35px;
-    margin-left: 300px;
-    text-align: center;
-    color: #fff;
-    margin-top: 65px;
-    font-family: math;
-} 
-
-.centrado {
-    font-size: 50px;
-    color: aqua;
-    text-align: center;
-    font-family: math;
+.titulo{
+font-size: 50px;
+color: aqua;
+text-align: center;
 
 }
-.imgc{
-    width: 700px;
-    height: 500px;
-    background-image: url(balon\ en\ llamas.avif);
-    background-repeat: no-repeat;
-    
-}
-.imgh{
-    width: 1000px;
-    height: 400px;
-    background-image: url(hello\ kitty\ la\ rompio.jpg);
-    background-repeat: no-repeat;
-    
-}
-
-
-
-
-
